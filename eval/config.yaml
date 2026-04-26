@@ -1,0 +1,22 @@
+MODEL: "MAI-UI"
+# OS-Atlas/UI-TARS/UI-TARS-1.5/GUI-owl/Qwen2.5-VL/GELab/Qwen3-VL/UI-Venus/AgentCPM-GUI/MAI-UI/UI-Venus-1.5
+
+# MODEL_PATH: "/data2/models/public/OS-Atlas-Pro-7B"
+# MODEL_PATH: "/data1/models/UI-TARS-7B-SFT"
+# MODEL_PATH: "/data1/models/GUI-Owl-32B"
+# MODEL_PATH: "/data1/models/GUI-OWL-7B"
+# MODEL_PATH: "/data3/Qwen2.5-VL-32B-Instruct"
+# MODEL_PATH: "/data1/models/GELab-Zero-4B-preview"
+# MODEL_PATH: "/data1/models/Qwen3-VL-8B-Instruct" 
+# MODEL_PATH: "/data1/models/UI-TARS-1.5-7B"
+# MODEL_PATH: "/data1/models/UI-Venus-Navi-72B"
+# MODEL_PATH: "/data4/models_qwen3vl/Qwen3-VL-2B-Instruct"
+MODEL_PATH: "/data2/models/public/MAI-UI-8B"
+# MODEL_PATH: "/data2/models/public/UI-Venus-1.5-8B"
+# MODEL_PATH: "/data4/models_qwen3vl/Qwen3-VL-32B-Instruct"
+# MODEL_PATH: "/data4/models_gui/UI-TARS-72B-SFT"
+DATA_PATH: "/data1/home/wuzheng/OS-SPEAR/"
+LOG_PATH: "/data1/home/wuzheng/OS-SPEAR/logs/"
+TEST_S: true
+TEST_P: true
+TEST_R: true
