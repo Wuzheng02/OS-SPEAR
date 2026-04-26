@@ -3,6 +3,7 @@
 
 **A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents**
 
+![OS-SPEAR Framework](https://github.com/Wuzheng02/OS-SPEAR/blob/main/main.png)
 ---
 
 ## 📖 Overview
