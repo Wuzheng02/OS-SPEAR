@@ -1215,7 +1215,7 @@ def get_action_glm45v(obs):
     Action: {"action_type":...}
     """
     client = ZhipuAI(
-        api_key= "c455aa20cb0a443e88928dd1b8ca040e.umh8ubmc4OGVMEGK"
+        api_key= ""
     )
     with open(obs['image_path'], "rb") as image_file:
         base64_image = base64.b64encode(image_file.read()).decode('utf-8')
